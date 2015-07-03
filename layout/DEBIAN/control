@@ -1,0 +1,10 @@
+Package: io.mstg.prettycydia
+Name: prettycydia
+Version: 1.0
+Architecture: iphoneos-arm
+Description: much pretty
+Maintainer: mstg <mustiigezen@gmail.com>
+Author: mstg <mustiigezen@gmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+dev: mstg
